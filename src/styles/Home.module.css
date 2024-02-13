@@ -1,0 +1,19 @@
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row-reverse;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+  
+  .gridItem {
+    width: 100%;
+    align-content: center;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+  }
+  
+  .text-box {
+    padding: 10px;
+    border: 1px solid #000000;
+  }
